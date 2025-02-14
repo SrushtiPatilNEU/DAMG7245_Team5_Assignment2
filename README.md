@@ -5,6 +5,7 @@
 
 - Fast Api : https://damg7245-team5-assignment2.onrender.com
 - Streamlit Application: https://damg7245team5assignment2-duhefdi76eqengrappe588s.streamlit.app/
+- video : https://youtu.be/SFfq909AHa0
 
 ## Problem Statement 
 In this project, SEC Financial Statement Data will be extracted, validated, and stored in Snowflake utilising a completely automated data pipeline built with Airflow. It entails creating two FastAPI services: one that interfaces with Snowflake to run and provide query replies, and another that accepts SEC data connections and initiates an Airflow pipeline for extraction, transformation, and loading into Snowflake. A Streamlit-based application that enables users to choose financial datasets, start the pipeline for processing, and extract structured data from Snowflake for analysis is part of the workflow.
