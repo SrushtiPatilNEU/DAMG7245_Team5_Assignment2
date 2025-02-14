@@ -1,7 +1,7 @@
 # Assignment-2
 
 ## Live application Links
-[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=10LyLUw6ExvnydJ-WWU9VY5ZdL0ZN6cSuQ4gK6o7-hZo#3)
+[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=10LyLUw6ExvnydJ-WWU9VY5ZdL0ZN6cSuQ4gK6o7-hZo#0)
 
 - Fast Api : https://damg7245-team5-assignment2.onrender.com
 - Streamlit Application: https://damg7245team5assignment2-duhefdi76eqengrappe588s.streamlit.app/
@@ -74,7 +74,7 @@ streamlit run app/main.py
 
 ## Project run outline
 
-CodeLab - [Documentation](https://codelabs-preview.appspot.com/?file_id=10LyLUw6ExvnydJ-WWU9VY5ZdL0ZN6cSuQ4gK6o7-hZo#3) 
+CodeLab - (https://codelabs-preview.appspot.com/?file_id=10LyLUw6ExvnydJ-WWU9VY5ZdL0ZN6cSuQ4gK6o7-hZo#0)
 
 ## References
 Airflow Documentation
